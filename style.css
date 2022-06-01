@@ -32,4 +32,4 @@ body {
     animation: animate 15s linear infinite;
 }
 
-@keyframes animate {}
+@keyframes animate {0%{}}
