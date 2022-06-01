@@ -18,7 +18,7 @@ body {
 
 .container span {
     position: relative;
-    display: flex;
+    display: flex;justify-content: center;
 }
 
 .bubbles {
