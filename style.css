@@ -19,4 +19,6 @@ body {
 .bubbles {
     position: relative;
     display: flex;
-}.bubbles span{}
+}
+
+.bubbles span {}
