@@ -32,4 +32,6 @@ body {
     animation: animate 15s linear infinite;
 }
 
-@keyframes animate {0%{}}
+@keyframes animate {
+    0% {transform: translateY(100vh);}
+}
