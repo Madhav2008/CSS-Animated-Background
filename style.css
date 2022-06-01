@@ -54,6 +54,6 @@ body {
     }
 
     100% {
-        transform: translateY(-10vh) scale(1);
+        transform: translateY(-20vh) scale(1);
     }
 }
