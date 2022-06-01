@@ -16,4 +16,4 @@ body {
     overflow: hidden;
 }
 
-.bubbles {}
+.bubbles {position: relative;}
