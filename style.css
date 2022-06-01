@@ -9,4 +9,6 @@ body {
     background: #0c192c;
 }
 
-.container {position: relative;}
+.container {
+    position: relative;
+}
