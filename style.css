@@ -32,7 +32,7 @@ body {
     animation: animate 15s linear infinite;
 }
 
-.bubbles span:nth-child(even) {}
+.bubbles span:nth-child(even) {background: #ff2d75;}
 
 @keyframes animate {
     0% {
