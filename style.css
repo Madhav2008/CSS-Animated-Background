@@ -22,5 +22,6 @@ body {
 }
 
 .bubbles span {
-    position: relative;width: 30px;
+    position: relative;
+    width: 30px;
 }
