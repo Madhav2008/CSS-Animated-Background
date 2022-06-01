@@ -17,5 +17,6 @@ body {
 }
 
 .bubbles {
-    position: relative;display: flex;
+    position: relative;
+    display: flex;
 }
