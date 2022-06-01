@@ -16,7 +16,9 @@ body {
     overflow: hidden;
 }
 
-.container span {position: relative;}
+.container span {
+    position: relative;
+}
 
 .bubbles {
     position: relative;
