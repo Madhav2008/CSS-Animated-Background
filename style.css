@@ -30,7 +30,7 @@ body {
     border-radius: 50%;
     box-shadow: 0 0 0 10px #4fc3dc44, 0 0 50px #4fc3dc, 0 0 100px #4fc3dc;
     animation: animate 15s linear infinite;
-}.bubbles span:nth-child()
+}.bubbles span:nth-child(){}
 
 @keyframes animate {
     0% {
