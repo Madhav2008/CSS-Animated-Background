@@ -27,4 +27,5 @@ body {
     height: 30px;
     background: #4fc3dc;
     margin: 0 4px;
+    border-radius: 50%;
 }
